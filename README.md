@@ -1,4 +1,4 @@
-#SiteResponsivoDeServiçosIntegradoaoBancodeDados
+#SITERESPONSIVO
 #Este Projeto foi criado no final do primeiro semestre de 2022,com a intenção de ser o Projeto Final do semestre da minha faculdade.
 Neste projeto,você vai encontrar Um site responsivo com 4 areas de acesso,também integrado ao banco de dados.
 Site com acessibilidades,entre elas whatsapp  e botão light,também  possui validação em JavaScript.
